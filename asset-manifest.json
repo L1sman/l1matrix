@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/matrix/static/css/main.e94764c1.css",
+    "main.js": "/matrix/static/js/main.f42c27f7.js",
+    "static/media/general_deskr_logo_fz.png": "/matrix/static/media/general_deskr_logo_fz.9cd5bb2954afb15ccedd.png",
+    "index.html": "/matrix/index.html",
+    "main.e94764c1.css.map": "/matrix/static/css/main.e94764c1.css.map",
+    "main.f42c27f7.js.map": "/matrix/static/js/main.f42c27f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e94764c1.css",
+    "static/js/main.f42c27f7.js"
+  ]
+}
