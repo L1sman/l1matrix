@@ -1,6 +1,6 @@
 {
-  "homepage": "https://L1sman.github.io/matrix",
-  "name": "matrix",
+  "homepage": "https://L1sman.github.io/l1matrix",
+  "name": "l1matrix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
