@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/l1matrix/static/css/main.e94764c1.css",
-    "main.js": "/l1matrix/static/js/main.65699cee.js",
+    "main.css": "/l1matrix/static/css/main.c6e5b3d0.css",
+    "main.js": "/l1matrix/static/js/main.8195c1f4.js",
     "static/media/general_deskr_logo_fz.png": "/l1matrix/static/media/general_deskr_logo_fz.9cd5bb2954afb15ccedd.png",
     "index.html": "/l1matrix/index.html",
-    "main.e94764c1.css.map": "/l1matrix/static/css/main.e94764c1.css.map",
-    "main.65699cee.js.map": "/l1matrix/static/js/main.65699cee.js.map"
+    "main.c6e5b3d0.css.map": "/l1matrix/static/css/main.c6e5b3d0.css.map",
+    "main.8195c1f4.js.map": "/l1matrix/static/js/main.8195c1f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.e94764c1.css",
-    "static/js/main.65699cee.js"
+    "static/css/main.c6e5b3d0.css",
+    "static/js/main.8195c1f4.js"
   ]
 }
