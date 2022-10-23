@@ -201,9 +201,27 @@ body {
     justify-content: space-around;
 }
 
+.form__label {
+    position: absolute;
+    top: -1.2ex;
+    z-index: 1;
+    left: 2em;
+    background-color: #f6eee4;
+    padding: 0 5px;
+}
+
+.input__wrapper {
+    position: relative;
+}
 @media(max-width: 1600px) {
     .descr__diagram {
         margin-bottom: 50px;
+    }
+}
+
+@media(max-width: 1200px) {
+    .title {
+        font-size: 100px;
     }
 }
 
@@ -239,15 +257,21 @@ body {
     .form {
         margin-bottom: 60px;
     }
+
+
 }
 
 @media (max-width: 576px) {
+    .form__label {
+        font-size: 10px;
+    }
+
     .logo {
         display: none;
     }
 
     .title {
-        font-size: 60px;
+        font-size: 40px;
         margin-bottom: 40px;
     }
 

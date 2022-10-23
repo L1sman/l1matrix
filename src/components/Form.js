@@ -27,17 +27,23 @@ function Form({ onSubmit }) {
     return (
         <form className="form flex" onSubmit={getInfo}>
             <div className="form__inputs">
-            <input className="form__input"
+            <div className="input__wrapper">
+                <label htmlFor="name" className="form__label">Имя</label>
+                <input id="name" className="form__input"
                 type="text"
-                placeholder="Имя"
                 onChange={ (e) => setInputName(e.target.value)}
                 required
+                       maxLength={20}
             />
-            <input className="form__input"
+            </div>
+            <div className="input__wrapper">
+                <label htmlFor="date" className="form__label">Дата рождения </label>
+                <input id="date" className="form__input"
                 type="date"
                 onChange={ (e) => setInputDate(e.target.value)}
                 required
             />
+            </div>
             </div>
             <button className="form__btn">Посчитать</button>
         </form>
